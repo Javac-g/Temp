@@ -26,7 +26,5 @@ public class DateSorter {
         datesWithR.addAll(datesWithoutR);
         return datesWithR;
     }
-    public static void main(String[] args) {
-        
-    }
+    
 }
